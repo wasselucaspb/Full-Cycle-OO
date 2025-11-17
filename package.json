@@ -1,0 +1,16 @@
+{
+  "name": "full-cycle-oo",
+  "version": "1.0.0",
+  "description": "treinamento OO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --import=tsx ./src/index.ts"
+  },
+  "author": "Wasse Lucas",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
